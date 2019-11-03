@@ -10,5 +10,5 @@ This program simulates two people on a see saw pushing off the ground with diffe
 
 Instructions:
 After navigating to the correct folder use the following commands:
-- 'javac Sudoku.java'
-- 'java Sudoku [FILENAME]' (Example: java Sudoku test1.txt)
+- 'javac SeeSaw.java'
+- 'java SeeSaw'
