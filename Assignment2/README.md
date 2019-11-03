@@ -1,6 +1,9 @@
 Name: Cole Gotelli
+
 Student ID: 2268217
+
 Email: gotel100@mail.chapman.edu
+
 Course: CPSC 380
 
 Project 2: SeeSaw Simulator
